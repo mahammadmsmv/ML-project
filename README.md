@@ -1,2 +1,0 @@
-Research Question: Can we predict the cognitive test scores (such as memory, attention) based on demographic data (age, education, gender)?
-We will use the [Cognitive Test Battery](https://ftp.gwdg.de/pub/misc/MPI-Leipzig_Mind-Brain-Body-LEMON/Behavioural_Data_MPILMBB_LEMON/Cognitive_Test_Battery_LEMON/) dataset, which includes data on various cognitive test results (memory, attention) and demographic features (age, education, gender).
