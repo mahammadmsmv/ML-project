@@ -1,1 +1,1 @@
-Can we smoking beaviour based on education level?
+Can we predict smoking beaviour based on education level?
